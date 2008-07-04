@@ -68,17 +68,7 @@ Gem::Specification.new do |s|
              "lib/authorization.rb",
              "lib/trustification/email_validation.rb",
              "lib/trustification.rb",
-             "notes/AccessControl.txt",
-             "notes/Authentication.txt",
-             "notes/Authorization.txt",
-             "notes/RailsPlugins.txt",
-             "notes/SecurityFramework.graffle",
-             "notes/SecurityFramework.png",
-             "notes/SecurityPatterns.txt",
-             "notes/Tradeoffs.txt",
-             "notes/Trustification.txt",
              "rails/init.rb",
              "restful-authentication.gemspec"]
-  
 
 end
